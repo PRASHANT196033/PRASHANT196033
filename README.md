@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @PRASHANT196033
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prashant Chaudhary
+- 👀 I’m interested in Software development and Web Development
+- 🌱 I’m currently learning DS&algo concepts
+- 💞️ I’m looking to collaborate on opensource Projects.
+- 📫 How to reach me Prashant.ash47@gmail.com
+- 
 
-<!---
-PRASHANT196033/PRASHANT196033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
