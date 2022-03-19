@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning DS&algo concepts
 - 💞️ I’m looking to collaborate on opensource Projects.
 - 📫 How to reach me Prashant.ash47@gmail.com
-- 
+- HOBBIES-: I Love to Read books and always updated about techy info.
 
 
